@@ -8,5 +8,9 @@
       "roles": ["735848533399306311","736311618924839062","736345090338848819"]
     }
   ],
-  "channel": "735847870376181833"
+  "channel": "735847870376181833",
+  "verify_emoji": "740237119343034501",
+  "verify_role": "740236341383528589",
+  "verify_channel": "740237311530369054",
+  "verify_description": "**React to verify**\n\nRules\n\nProblems\nIf you encountering problems dm <@476805392354115605>"
 }
